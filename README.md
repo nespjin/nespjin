@@ -21,7 +21,7 @@
  -->
   <a href="https://github.com/nespjin">
     <img
-      src="https://streak-stats.demolab.com?user=nespjin&theme=Light&hide_border=false&border_radius=5&locale=en_US&card_width=700"
+      src="https://streak-stats.demolab.com?user=nespjin&theme=Light&hide_border=false&border_radius=5&locale=zh_Hans&card_width=500"
       alt="Profile"
     />
   </a>
